@@ -1,0 +1,4 @@
+fastapi
+pymongo
+requests
+python-dotenv

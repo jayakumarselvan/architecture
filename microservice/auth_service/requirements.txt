@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pymongo
+passlib
+python-jose
+bcrypt
+PyJWT
+pydantic
+pydantic[email]
